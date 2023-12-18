@@ -1,5 +1,5 @@
 ---
-title: "Sophia Gibson"
+title: "Welcome"
 ---
 
-Welcome to my personal website. My name is Sophia Gibson and I am a PhD student studying Genome Sciences at The University of Washington.
+My name is Sophia Gibson and I am a PhD student studying Genome Sciences at The University of Washington.
