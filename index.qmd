@@ -1,7 +1,5 @@
 ---
-title: "sophia-gibson"
+title: "Sophia Gibson"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my personal website. My name is Sophia Gibson and I am a PhD student studying Genome Sciences at The University of Washington.

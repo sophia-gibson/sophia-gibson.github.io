@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "sophia-gibson"
+  title: "Sophia Gibson"
   navbar:
     left:
       - href: index.qmd
