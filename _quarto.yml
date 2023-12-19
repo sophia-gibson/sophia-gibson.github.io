@@ -5,12 +5,14 @@ project:
 website:
   navbar:
     title: "Sophia Gibson" # this is the website title as it appears in the top left corner -- clicking on this will jump you back to your landing page from where ever you are
-    right: # align navbar items to the right/left/center
+    left: # align navbar items to the right/left/center
       - href: index.qmd
         text: Home # use 'text' option to update the name as you want it to appear in your navbar
+      - href: about.qmd
+        text: Research
+    right:
       - href: media/cv.pdf
         text: CV
-      - about.qmd
       - icon: github # add icons that link to social media, etc.
         href: https://github.com/sophia-gibson
 
