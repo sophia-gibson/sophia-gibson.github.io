@@ -3,7 +3,6 @@ project:
   output-dir: docs
 
 website:
-  favicon: media/flower1.svg
   navbar:
     title: "Sophia Gibson" # this is the website title as it appears in the top left corner -- clicking on this will jump you back to your landing page from where ever you are
     right: # align navbar items to the right/left/center
