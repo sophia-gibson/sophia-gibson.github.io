@@ -1,6 +1,6 @@
 ---
 title: "Sophia B. Gibson"
-subtitle: "Aspiring computational biologist"
+subtitle: "Genetics |  Genomics Computational Biology"
 image: media/Gibson3_copy.jpeg # great spot for your professional headshot :) 
 toc: false # remove "On this page" table of contents
 about: 
