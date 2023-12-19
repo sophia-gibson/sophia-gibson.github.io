@@ -1,11 +1,12 @@
 ---
 title: "Sophia B. Gibson"
+subtitle: "Aspiring computational biologist"
 image: media/Gibson3_copy.jpeg # great spot for your professional headshot :) 
 toc: false # remove "On this page" table of contents
 about: 
-  template: trestles # see other templates at https://quarto.org/docs/websites/website-about.html#templates
-  image-shape: round
-  image-width: 15em
+  template: trestles
+  image-shape: rounded
+  image-width: 17em
   links:
     - icon: linkedin
       text: LinkedIn
@@ -30,7 +31,7 @@ I'm Sophia Gibson, a PhD student in the Department of Genome Sciences at The Uni
 ## Education
 
 **University of Washington** | Seattle, WA |
-PhD in Genome Science | Sept 2022 - Present
+PhD in Genome Sciences | Sept 2022 - Present
 
 **Bryn Mawr College** | Bryn Mawr, PA |
 B.A in Biochemistry and Molecular Biology | Sept 2016 - May 2020
