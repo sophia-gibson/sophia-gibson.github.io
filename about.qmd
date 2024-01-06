@@ -1,5 +1,4 @@
 ---
-title: "About"
+title: "My Research"
 ---
-
-About this site
+Coming soon!
