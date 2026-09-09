@@ -11,14 +11,14 @@ website:
       - href: about.qmd
         text: Research
     right:
-      - href: media/cv.pdf
+      - href: https://docs.google.com/document/d/1uk2sJR4PzC6Fb5A_Mstu3yCGeap7xtpzriGNYcKiuFk/edit?usp=sharing
         text: CV
       - icon: github # add icons that link to social media, etc.
         href: https://github.com/sophia-gibson
 
 format:
   html:
-    theme: quartz
+    theme: [litera, custom.scss]
     css: styles.css
     toc: true
 

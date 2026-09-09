@@ -1,0 +1,11 @@
+/*-- scss:defaults --*/
+$primary: #d6336c;
+$link-color: $primary;
+$navbar-light-active-color: $primary;
+$navbar-light-hover-color: $primary;
+
+/*-- scss:rules --*/
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+}
